@@ -1,0 +1,19 @@
+# Packages the notebook imports or installs. Versions were not recorded when it was run;
+# pin them (pip freeze) after a successful run to make it fully reproducible.
+#
+anthropic
+API
+Claude
+For
+integration
+matplotlib
+nest-asyncio
+numpy
+openai
+pandas
+plotly
+pyautogen
+scikit-learn
+seaborn
+autogen-agentchat
+autogen-core
